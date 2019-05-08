@@ -1,5 +1,5 @@
 # GSchool-Capstone
-
+#### Check out Testing.ipynb
 ### Final Proposal
 * Create a news feed platform where I will stream headlines and content summary, as well as perform sentiment analysis to model how public opinion has changed towards certain fiancial indexes to predict short term economic conditions
 * Most events will be Economical and FInancially Related
@@ -53,4 +53,4 @@
 
 ### Cloud computing
 * Will run an EC2 instance to train this Model and display the results with Plotly and Dash
-* Results will be stored onto an S3 bucker -- Where my files will be held and retrieved
+* Results will be stored onto an S3 bucket -- Where my files will be held and retrieved
